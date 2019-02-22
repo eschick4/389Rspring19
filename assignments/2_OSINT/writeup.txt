@@ -108,3 +108,7 @@ Part 1 is worth 45 points, and part 2 is worth 55 points.
 ### Tips
 
 Reference the slides from lecture 2 to help you effectively utilize available OSINT techniques.
+
+
+
+PASSWORD: linkinpark
